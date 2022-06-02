@@ -1,0 +1,15 @@
+{
+    "presets":[
+        // Here you should change 'env' to '@babel/preset-env'
+        ["@babel/preset-env"]
+        // , {
+            // "targets" :{
+            //     "browsers": [
+            //         "last 5 versions",
+            //         "ie >= 8"
+            //         ]
+            //     }
+            // }
+        ]
+    // ]
+}
